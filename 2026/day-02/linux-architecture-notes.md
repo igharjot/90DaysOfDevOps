@@ -46,16 +46,16 @@
 
 5. Some common linux commands are -
 
-   -> touch hello.txt
-   -> nano hello.txt (CTR + O, Enter, CTR + X)
-   -> cat hello.txt
-   -> top, htop
-   -> ps a, ps aux, ps aux | grep <pattern>
-   -> uname, uname -r
-   -> pwd
-   -> mv hello.txt intro.txt
-   -> mv intro.txt ../devops
-   -> mkdir josh-batch-10
-   -> cp hello.txt ../devops-zero-to-hero
-   -> man ps, man mkdir, man uname
-   -> lsblk
+        -> touch hello.txt
+        -> nano hello.txt (CTR + O, Enter, CTR + X)
+        -> cat hello.txt
+        -> top, htop
+        -> ps a, ps aux, ps aux | grep <pattern>
+        -> uname, uname -r
+        -> pwd
+        -> mv hello.txt intro.txt
+        -> mv intro.txt ../devops
+        -> mkdir josh-batch-10
+        -> cp hello.txt ../devops-zero-to-hero
+        -> man ps, man mkdir, man uname
+        -> lsblk
