@@ -1,4 +1,4 @@
-#Day-3 Tak :🐧Linux Commands Cheat Sheet
+# Day-3 Task :🐧Linux Commands Cheat Sheet
 
 1. PROCESS MANAGEMENT
 
