@@ -91,7 +91,8 @@
 A web application service called 'myapp' failed to start after a server reboot.
 What commands would be run to diagnose the issue?
 Write at least 4 commands in order.
-
+```
+```
 Step 1: systemctl status myapp
 Why: It shows if the service is active, failed, or stopped.
 
@@ -112,7 +113,8 @@ Why: This command lists all the activities of the myapp.service.
 Your manager reports that the application server is slow.
 You SSH into the server. What commands would be run to identify
 which process is using high CPU?
-
+```
+```
 Commands used to identify which process is using high CPU are:
 - top
 - htop
@@ -130,7 +132,8 @@ Command used to kill the high CPU-consuming processes:
 A developer asks: "Where are the logs for the 'docker' service?"
 The service is managed by systemd.
 What commands would be used?
-
+```
+```
 1️⃣ To view logs of a container-
 docker logs <container_name_or_id>
 
@@ -188,7 +191,5 @@ Look for: -rwxr-xr-x (notice 'x' = executable)
 Step 4: Running it
 Command: ./backup.sh
 ```
-
----
 
 ---
