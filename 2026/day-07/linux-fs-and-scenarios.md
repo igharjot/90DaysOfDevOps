@@ -69,6 +69,10 @@
 
 ---
 
+<img width="856" height="392" alt="image" src="https://github.com/user-attachments/assets/e029ea0e-36c8-4914-8d01-073b829da7ea" />
+
+---
+
 ## Quick Mapping
 
 - **Configuration files:** `/etc`
